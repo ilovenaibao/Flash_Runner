@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="NoTitle_1" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:windowBackground">@color/transparent_background</item>
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowIsTranslucent">true</item>
+		<item name="android:windowAnimationStyle">@+android:style/Animation.Translucent</item>
+	</style>
+
+	<style name="NoTitle" parent="android:Theme">
+		<item name="android:windowBackground">@color/transparent_background</item>
+		<item name="android:windowNoTitle">true</item>
+		<!-- <item name="android:windowFullscreen">true</item> -->
+		<item name="android:windowIsTranslucent">true</item>
+		<item name="android:windowAnimationStyle">@+android:style/Animation.Translucent</item>
+	</style>
+	
+	<color name="transparent_background">#A0000000</color>
+	
+	<string name="applicationName">Real Teaching</string>
+	<string name="app_name">Search Files</string>
+	<string name="bt_1">Refresh</string>
+	<string name="tv_1">Click button to refresh the file</string>
+	<string name="tv_1_2">Refresh success!</string>
+	<string name="unFindFlash">Please log-in our Website to download on-line
+		service!</string>
+</resources>

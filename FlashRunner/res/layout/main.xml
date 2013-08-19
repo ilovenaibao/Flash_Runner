@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+	>
+
+<Button
+	android:id="@+id/main_bt_1"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="checkFlashName"
+	/>
+		
+<EditText
+	android:id="@+id/main_et_1"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text=""
+	/>	
+
+<TextView
+	android:id="@+id/main_tv_1"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:textSize="16sp"
+	android:textColor="#ffffff"
+	android:padding="10dip"
+	android:background="#cc0000"
+	android:text="這是TextView，你可以在這裡輸入現實的信息.."
+/>
+
+<Button
+	android:id="@+id/main_bt_checkFlashName"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="CheckFlashName"
+	/>
+
+</LinearLayout>

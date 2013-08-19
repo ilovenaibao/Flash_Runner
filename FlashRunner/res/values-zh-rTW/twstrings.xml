@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="applicationName">真人教學</string>
+	<string name="app_name">搜尋檔案</string>
+	<string name="bt_1">刷新</string>
+	<string name="tv_1">點擊按鈕刷新媒體庫</string>
+	<string name="tv_1_2">已成功刷新媒體庫！</string>
+	<string name="unFindFlash">請連接本公司網站，下載On-line service內容！"</string>
+</resources>
